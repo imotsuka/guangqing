@@ -2,35 +2,37 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Guangqing Yang
+Guangqing Yang
+Undergraduate Student
 
 Show Contacts
 
 Email
-richard@example.com
+imotsuka@stu.pku.edu.cn
 
 Phone
-+1 (213) 352-2795
++86 1877-1064-774
 
 Birthday
-June 23, 1982
+June 30, 2002
 
 Location
-Sacramento, California, USA
+Beijing, PRC
 
 # navbar
 
 About
 Resume
-Portfolio
+Project
 Blog
 Contact
 
 # about
 
 About me
+
+He/Him | Undergraduate Student | College of Chemistry and Molecular Engineering, PKU
 
 I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
@@ -93,23 +95,24 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Wuhan Foreign Language School
+2017 — 2020
+Wuhan, Hubei, PRC
+High School Diploma
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+Peking University
+2020 — 2024
+Candidate for Bachelor of Science
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+Scientific Experience
 
-Experience
+Elite Project
+2017-2019
+aaa
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Chinese Chemistry Olympiad(CChO)
+2019
+Silver medal.
 
 Art director
 2013 — 2015
